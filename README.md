@@ -8,4 +8,4 @@ All UWP apps are uninstalled except Defender and Settings.
 No other known side effects.
 
 
-Since Windows 10 uses Modern Setup Host, this may work with any Windows version above 8
+Since Windows 10 uses Modern Setup Host, this may work with any Windows version above 8 (which is not tested).
